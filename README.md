@@ -6,7 +6,7 @@ Place Annotations anywhere!
 
 Original brief here 👉 [Original Brief](README.original.md)
 
-[See online here](https://graphy-react-interview.netlify.app/)
+[See online here](https://graphy-react-interview.netlify.app/) -- will show a blank white screen, click anywhere to add an annotation.
 
 [![Actions Status](https://github.com/scottwarren/graphy-react-interview/workflows/Linting%20and%20tests/badge.svg)](https://github.com/scottwarren/graphy-react-interview/actions)
 
